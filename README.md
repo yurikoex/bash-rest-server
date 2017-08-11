@@ -9,6 +9,7 @@ based on work from https://github.com/avleen/bashttpd
 
 ### usage
 
+start server
 ```
 ./index.sh
 ```
